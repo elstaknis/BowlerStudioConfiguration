@@ -1,4 +1,10 @@
 {
+  "workspace": {
+    "https://github.com/elstaknis/greycat.git": [
+      "elstaknis/greycat",
+      "1575645894882"
+    ]
+  },
   "studio-open-web": {},
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
